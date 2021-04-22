@@ -23,7 +23,7 @@ Since then I pushed **150**+ commits, opened **1**+ issues, submitted **15**+ pu
 - 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Vue, Mongodb, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/SamuelCody).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/SamuelCody/SamuelCody/issues/2)! I am happy to help.
+- 💬 &nbsp; Ask me about anything [here](https://github.com/SamuelCody/SamuelCody/issues/1)! I am happy to help.
 - 👾 &nbsp; Fun fact: Start with a Semicolon.
 - 📫 &nbsp; How to reach me: ayindesamuel0@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://bit.ly/3dKeHT5).
